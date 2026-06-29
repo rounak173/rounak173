@@ -2,7 +2,7 @@
 
 
 
-## 🛠️ Technical Toolkit
+## 🛠️ Technical Toolkits
 
 | Category | Technologies |
 | :--- | :--- |
@@ -12,7 +12,7 @@
 
 ---
 
-## 📈 Featured Projects
+## 📈 Data Science & ML Projects
 
 ### 🌤️ [Air Quality Predictive Modeling System](https://github.com/rounak173/Beijing-Air-Quality-Prediction)
 * **Objective:** Cleaned, wrangled, and performed exploratory data analysis (EDA) on multi-variable temporal environmental datasets.
