@@ -1,4 +1,4 @@
-Hi there, Rounak from Bangladesh living in Germany.
+Hi there, I am Rounak from Bangladesh studying  and living in Germany.
 
 
 ## 🛠️ Technical Toolkit
@@ -11,16 +11,16 @@ Hi there, Rounak from Bangladesh living in Germany.
 
 ---
 
-## 📈 Featured Projects[cite: 2]
+## 📈 Featured Projects
 
-### 🌤️ [Air Quality Predictive Modeling System](https://github.com/yourusername/air-quality-project)
-* **Objective:** Cleaned, wrangled, and performed exploratory data analysis (EDA) on multi-variable temporal environmental datasets[cite: 2].
-* **Architecture:** Implemented Gradient-Boosted Decision Tree (GBDT) classifiers leveraging XGBoost to extract precise target signals from noisy data distributions[cite: 2].
-* **Performance Evaluation:** Evaluated and optimized model performance utilizing MAE, RMSE, and R² tracking metrics[cite: 2].
+### 🌤️ [Air Quality Predictive Modeling System](https://github.com/rounak173/Beijing-Air-Quality-Prediction)
+* **Objective:** Cleaned, wrangled, and performed exploratory data analysis (EDA) on multi-variable temporal environmental datasets.
+* **Architecture:** Implemented Gradient-Boosted Decision Tree (GBDT) classifiers leveraging XGBoost to extract precise target signals from noisy data distributions.
+* **Performance Evaluation:** Evaluated and optimized model performance utilizing MAE, RMSE, and R² tracking metrics.
 
-### 🎯 [High-Energy Target Classification Pipeline](https://github.com/yourusername/target-classification)
+### 🎯 [High-Energy Target Classification Pipeline](https://github.com/rounak173/Lab-Course-Particle-Physics
 * **Objective:** Conducted meticulous exploratory data analysis to map structural behaviors within complex environmental data features[cite: 2].
-* **Architecture:** Built robust classifier models (XGBoost / GBDTs) designed to systematically isolate underlying physical signals from background noise patterns[cite: 2].
+* **Architecture:** Built robust classifier models (XGBoost / GBDTs) designed to systematically isolate underlying physical signals from background noise patterns.
 
 ---
 
